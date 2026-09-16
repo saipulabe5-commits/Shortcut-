@@ -1,0 +1,6 @@
+{
+  "name": "ShortCut AI",
+  "description": "Ubah video panjang menjadi klip vertikal siap ekspor untuk YouTube Shorts",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
